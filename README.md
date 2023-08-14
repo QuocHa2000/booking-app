@@ -1,9 +1,9 @@
 
 ## Set up 
 
-Step 1 : Replace the environment variable in file env correspond to your DB 
-Step 2 : run yarn 
-Step 3 : Build app and start app 
+- Step 1 : Replace the environment variable in file env correspond to your DB 
+- Step 2 : run yarn 
+- Step 3 : Build app and start app 
 
 
 ## Feature
